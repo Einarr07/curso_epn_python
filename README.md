@@ -12,6 +12,9 @@ los ejercicios propuestos.
 - Deber_2
 - Examen
 
+## Proyecto
+El proyecto realizado para este curso lo podras encontrar en: [Invasores espaciales](https://github.com/Einarr07/Invasores-espaciales-game)
+
 ### Contenido del curso
 Para más detalles sobre el curso te dejo el repositorio princial: 
 [Curso-de-python-EPN-2024](https://github.com/marcelmmc/Curso-de-python-EPN-2024)
